@@ -10,4 +10,4 @@ A simple Python script that helps determine whether students pass or fail based 
 - Counts and displays the total number of students who passed
 
 💡 Why I made this
--Just practicing basic Python logic — if/else statements, loops, and input/output — all wrapped in a beginner-friendly exercise.
+-Just practicing basic Python logic — if/else statements, loops, and input/output — all wrapped in a beginner-friendly exercise to improve logical thinking.
